@@ -1,6 +1,6 @@
 # Timer App
 
-<img src="cat-girl.ico" alt="Timer App Icon" width="64" height="64" />
+<img src="cat-girl.ico" alt="Timer App Icon" width="128" height="128" />
 
 A simple timer application built with Python and Tkinter that plays custom sounds at specific intervals.
 
