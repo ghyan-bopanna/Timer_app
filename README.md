@@ -2,7 +2,7 @@
 
 <img src="cat-girl.ico" alt="Timer App Icon" width="128" height="128" />
 
-A simple timer application built with Python and Tkinter that plays custom sounds at specific intervals.
+A simple timer application built with Python and Tkinter that plays custom sounds at specific intervals and lets you overlay on top of apps.
 
 ## Features
 
@@ -15,7 +15,7 @@ A simple timer application built with Python and Tkinter that plays custom sound
 
 ## How to Use
 
-1. Run the application
+1. Run the application (timer_app.exe)
 2. Enter the desired time in minutes
 3. Click "Start" to begin the countdown
 4. The app will play sounds at:
@@ -81,6 +81,10 @@ The executable will be created in the `dist` folder.
 - The base64 encoding helps embed sounds directly in the executable
 - Make sure your icon file is in .ico format for Windows executables
 
-## License
+## working
 
-Feel free to modify and use this application according to your needs.
+<img src="timer_card.jpg" alt="Timer window" width="640" height="640" />
+## Working (Click on image to see Video !!!)
+
+[![Watch the Demo](https://img.youtube.com/vi/gpduxSO030o/0.jpg)](https://www.youtube.com/watch?v=gpduxSO030o)
+
