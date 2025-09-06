@@ -1,4 +1,4 @@
-# Timer App
+# Timer App for Windows
 
 <img src="cat-girl.ico" alt="Timer App Icon" width="128" height="128" />
 
