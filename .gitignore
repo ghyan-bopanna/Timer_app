@@ -1,1 +1,5 @@
 .env
+build/
+timer_app.spec
+mario_bros.wav
+mario_bros.wav.txt
