@@ -81,9 +81,10 @@ The executable will be created in the `dist` folder.
 - The base64 encoding helps embed sounds directly in the executable
 - Make sure your icon file is in .ico format for Windows executables
 
-## working
+## Image
 
-<img src="timer_card.jpg" alt="Timer window" width="640" height="640" />
+<img src="timer_card.jpg" alt="Timer App window" width="256" height="256" />
+
 ## Working (Click on image to see Video !!!)
 
 [![Watch the Demo](https://img.youtube.com/vi/gpduxSO030o/0.jpg)](https://www.youtube.com/watch?v=gpduxSO030o)
