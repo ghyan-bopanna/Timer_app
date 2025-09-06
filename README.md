@@ -10,9 +10,8 @@ A simple timer application built with Python and Tkinter that plays custom sound
 - Custom sound notifications:
   - Sound at half-time
   - Sound when timer ends
-- Customizable sound files
-- Simple and intuitive interface
-- Windows executable support
+- Minimalistic
+- Lets you Overlay on other screens
 
 ## How to Use
 
@@ -22,6 +21,8 @@ A simple timer application built with Python and Tkinter that plays custom sound
 4. The app will play sounds at:
    - Half of the specified time
    - When the timer ends
+5. checkbox on the top right corner lets you overlay screen on top of other apps
+     
 
 ## Customizing Sounds
 
